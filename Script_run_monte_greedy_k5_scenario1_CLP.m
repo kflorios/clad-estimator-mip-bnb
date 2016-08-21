@@ -1,6 +1,6 @@
 
 %cd D:\Users\Kostas\Desktop\Example4\Scenario1_k=5_greedyMonteCLPforLP
-cd C:\Storage\Kostas\AUEB\Postdoc-AUEB-2013\GREGORY-PC-2016\Example4backup\Scenario1_k=5_greedyMonteCLPforLP
+%cd C:\Storage\Kostas\AUEB\Postdoc-AUEB-2013\GREGORY-PC-2016\Example4backup\Scenario1_k=5_greedyMonteCLPforLP
 
 rng default
 NTimes=10;
