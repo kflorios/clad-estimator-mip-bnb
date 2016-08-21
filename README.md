@@ -17,3 +17,6 @@ For more details consult paper: Exact computation of censored least absolute dev
  Suggested reference: http://ssrn.com/abstract=2372588
  
  This code requires only a MATLAB working installation and the free OPTI optimization toolbox available in http://www.i2c2.aut.ac.nz/Wiki/OPTI/index.php
+
+The main routine is Script_run_monte_greedy_k5_scenario1_CLP.m
+and the remaining .m files contain all needed functions.
