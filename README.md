@@ -13,6 +13,8 @@ The code has 4 refinements which are shortly:
 3. Branching priority implemented with a greedy rule.
 4. LP solver CLP from OPTI toolbox.
 
+Suggested Reference:
+
 Bilias, Yannis and Florios, Kostas and Skouras, Spyros, Exact Computation of Censored Least Absolute Deviations Estimators (December 28, 2013). Available at SSRN: http://ssrn.com/abstract=2372588
 
  This code requires only a MATLAB working installation and the free OPTI optimization toolbox available in http://www.i2c2.aut.ac.nz/Wiki/OPTI/index.php
